@@ -1,0 +1,10 @@
+{
+  "name": "sensoryDeprivation-Editor",
+  "references": [
+    "sensoryDeprivation"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
