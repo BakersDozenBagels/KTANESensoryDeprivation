@@ -19,7 +19,7 @@ MonoBehaviour:
 
     ID: sensoryDeprivation
 
-    Source:'
-  version: 0.1
+    Source: https://github.com/BakersDozenBagels/KTANESensoryDeprivation'
+  version: 1.0
   outputFolder: build
   previewImage: {fileID: 2800000, guid: e08d8edeba0090948b8169b0556475c3, type: 3}
